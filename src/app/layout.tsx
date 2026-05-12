@@ -8,7 +8,7 @@ export const metadata = {
 
   other: {
     "tiktok-developers-site-verification":
-      "73IgeFt71UPkNYPWrVUK7WGGlUzA4kxX",
+      "rlzJoPaD3zhRa68ADHN5Ost1SuH6zrhb",
   },
 };
 
